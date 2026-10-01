@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST basic-algorithms/007-move-zeroes.cpp -o /tmp/leetcod
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/move-zeroes/submissions/2159554160/](https://leetcode.com/problems/move-zeroes/submissions/2159554160/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `007-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/move-zeroes/submissions/2159554160/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](007-result.jpg)

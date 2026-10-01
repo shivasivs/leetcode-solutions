@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST basic-algorithms/006-binary-search.cpp -o /tmp/leetc
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/binary-search/submissions/2159553912/](https://leetcode.com/problems/binary-search/submissions/2159553912/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `006-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/binary-search/submissions/2159553912/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](006-result.jpg)

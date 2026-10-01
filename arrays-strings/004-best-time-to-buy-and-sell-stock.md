@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST arrays-strings/004-best-time-to-buy-and-sell-stock.c
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2159552406/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2159552406/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `004-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2159552406/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](004-result.jpg)

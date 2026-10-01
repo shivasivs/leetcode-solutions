@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST stacks/008-valid-parentheses.cpp -o /tmp/leetcode-lo
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/valid-parentheses/submissions/2159554411/](https://leetcode.com/problems/valid-parentheses/submissions/2159554411/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `008-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/valid-parentheses/submissions/2159554411/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](008-result.jpg)

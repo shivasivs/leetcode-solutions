@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST arrays-strings/003-valid-anagram.cpp -o /tmp/leetcod
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/valid-anagram/submissions/2159551435/](https://leetcode.com/problems/valid-anagram/submissions/2159551435/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `003-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/valid-anagram/submissions/2159551435/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](003-result.jpg)

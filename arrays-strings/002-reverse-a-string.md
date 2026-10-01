@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST arrays-strings/002-reverse-a-string.cpp -o /tmp/leet
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/reverse-string/submissions/2159548420/](https://leetcode.com/problems/reverse-string/submissions/2159548420/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `002-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/reverse-string/submissions/2159548420/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](002-result.jpg)

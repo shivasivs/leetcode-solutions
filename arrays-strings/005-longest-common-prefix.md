@@ -25,4 +25,6 @@ g++ -std=c++17 -DLOCAL_TEST arrays-strings/005-longest-common-prefix.cpp -o /tmp
 
 ### LeetCode result evidence
 
-The real submission is **Accepted**: [https://leetcode.com/problems/longest-common-prefix/submissions/2159553408/](https://leetcode.com/problems/longest-common-prefix/submissions/2159553408/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `005-result.png`.
+The real submission is **Accepted**: [LeetCode submission](https://leetcode.com/problems/longest-common-prefix/submissions/2159553408/). The genuine full-screen Chrome result screenshot is included below.
+
+![LeetCode Accepted result](005-result.jpg)
