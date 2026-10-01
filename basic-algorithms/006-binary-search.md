@@ -17,8 +17,12 @@ The input must be sorted. Use the inclusive interval and stop when left exceeds 
 
 ### Local tests
 
-Run `python3 006-binary-search.py` from this folder. The file includes typical and edge-case assertions.
+Compile and run the in-file assertions from the repository root with:
+
+```sh
+g++ -std=c++17 -DLOCAL_TEST basic-algorithms/006-binary-search.cpp -o /tmp/leetcode-local-test && /tmp/leetcode-local-test
+```
 
 ### LeetCode result evidence
 
-Submit this solution on LeetCode. After LeetCode shows **Accepted**, save the genuine screenshot here as `006-result.png`. Result: **Pending**.
+The real submission is **Accepted**: [https://leetcode.com/problems/binary-search/submissions/2159553912/](https://leetcode.com/problems/binary-search/submissions/2159553912/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `006-result.png`.

@@ -17,8 +17,12 @@ S is the total number of characters inspected. An empty input list or any mismat
 
 ### Local tests
 
-Run `python3 005-longest-common-prefix.py` from this folder. The file includes typical and edge-case assertions.
+Compile and run the in-file assertions from the repository root with:
+
+```sh
+g++ -std=c++17 -DLOCAL_TEST arrays-strings/005-longest-common-prefix.cpp -o /tmp/leetcode-local-test && /tmp/leetcode-local-test
+```
 
 ### LeetCode result evidence
 
-Submit this solution on LeetCode. After LeetCode shows **Accepted**, save the genuine screenshot here as `005-result.png`. Result: **Pending**.
+The real submission is **Accepted**: [https://leetcode.com/problems/longest-common-prefix/submissions/2159553408/](https://leetcode.com/problems/longest-common-prefix/submissions/2159553408/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `005-result.png`.

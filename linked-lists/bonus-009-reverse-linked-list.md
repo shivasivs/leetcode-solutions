@@ -17,8 +17,12 @@ The method handles an empty list and a one-node list. LeetCode supplies ListNode
 
 ### Local tests
 
-Run `python3 bonus-009-reverse-linked-list.py` from this folder. The file includes typical and edge-case assertions.
+Compile and run the in-file assertions from the repository root with:
+
+```sh
+g++ -std=c++17 -DLOCAL_TEST linked-lists/bonus-009-reverse-linked-list.cpp -o /tmp/leetcode-local-test && /tmp/leetcode-local-test
+```
 
 ### LeetCode result evidence
 
-Submit this solution on LeetCode. After LeetCode shows **Accepted**, save the genuine screenshot here as `bonus-result.png`. Result: **Pending**.
+Submit this C++ solution on LeetCode. After the actual result is Accepted, save the genuine screenshot here as `bonus-009-reverse-linked-list-result.png`. Result: **Pending**.

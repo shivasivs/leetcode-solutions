@@ -17,11 +17,15 @@ The problem guarantees one answer. Check the complement before saving the curren
 
 ### Local tests
 
-Run `python3 001-two-sum.py` from this folder. The file includes typical and edge-case assertions.
+Compile and run the in-file assertions from the repository root with:
+
+```sh
+g++ -std=c++17 -DLOCAL_TEST arrays-strings/001-two-sum.cpp -o /tmp/leetcode-local-test && /tmp/leetcode-local-test
+```
 
 ### LeetCode result evidence
 
-The genuine Accepted result screenshot already present in the GitHub repository is preserved here.
+The genuine Accepted result screenshot preserved from the existing repository is included here.
 
 ![LeetCode Accepted result](001-result.png)
 

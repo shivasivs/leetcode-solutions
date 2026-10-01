@@ -35,4 +35,4 @@ Personal LeetCode practice log — part of B25GE0101 portfolio
 
 - [Reverse Linked List (optional bonus)](linked-lists/bonus-009-reverse-linked-list.md)
 
-The eight required problems are in the first three sections. Reverse Linked List is the optional bonus listed in the activity. Each Python file contains local test cases. The Two Sum Accepted screenshot is included with its problem files; the other seven results and screenshots remain pending until actual LeetCode submissions.
+The eight required problems are in the first three sections. Reverse Linked List is the optional bonus listed in the activity. Each C++17 solution file contains local assertions behind `LOCAL_TEST`. All eight required C++17 solutions are Accepted on LeetCode. The Two Sum screenshot is included. The other seven submission pages are linked from their problem notes; their genuine result screenshots still need to be added.

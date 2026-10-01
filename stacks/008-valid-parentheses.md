@@ -17,8 +17,12 @@ A closing bracket with an empty stack is invalid. The final empty-stack check ca
 
 ### Local tests
 
-Run `python3 008-valid-parentheses.py` from this folder. The file includes typical and edge-case assertions.
+Compile and run the in-file assertions from the repository root with:
+
+```sh
+g++ -std=c++17 -DLOCAL_TEST stacks/008-valid-parentheses.cpp -o /tmp/leetcode-local-test && /tmp/leetcode-local-test
+```
 
 ### LeetCode result evidence
 
-Submit this solution on LeetCode. After LeetCode shows **Accepted**, save the genuine screenshot here as `008-result.png`. Result: **Pending**.
+The real submission is **Accepted**: [https://leetcode.com/problems/valid-parentheses/submissions/2159554411/](https://leetcode.com/problems/valid-parentheses/submissions/2159554411/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `008-result.png`.
