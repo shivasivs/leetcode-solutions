@@ -1,39 +1,38 @@
-# LeetCode Solutions
+# LeetCode Solutions Portfolio
 
-**Name:** Shiva Sivas  
-**Roll Number:** DCET2600466
+**Name:** Sivaranjan T · **Roll number:** DCET2600466
 
-Personal LeetCode practice log — part of B25GE0101 portfolio.
+Personal LeetCode practice log — part of B25GE0101 portfolio
 
-## Table of Contents
+## Table of contents
 
-- [Arrays & Strings](#arrays--strings)
-- [Basic Algorithms](#basic-algorithms)
-- [Stacks](#stacks)
-- [Linked Lists](#linked-lists)
-- [Progress Tracker](#progress-tracker)
+- [Arrays and Strings](arrays-strings/README.md)
+- [Basic Algorithms](basic-algorithms/README.md)
+- [Stacks](stacks/README.md)
+- [Linked Lists](linked-lists/README.md)
+- [Progress tracker](PROGRESS.md)
 
-## Arrays & Strings
+## Problem index
 
-- [Two Sum](arrays-strings/01-two-sum.md)
-- [Reverse a String](arrays-strings/02-reverse-a-string.md)
-- [Valid Anagram](arrays-strings/03-valid-anagram.md)
-- [Best Time to Buy and Sell Stock](arrays-strings/04-best-time-to-buy-and-sell-stock.md)
-- [Longest Common Prefix](arrays-strings/05-longest-common-prefix.md)
+### Arrays and Strings
 
-## Basic Algorithms
+- [Two Sum](arrays-strings/001-two-sum.md)
+- [Reverse a String](arrays-strings/002-reverse-a-string.md)
+- [Valid Anagram](arrays-strings/003-valid-anagram.md)
+- [Best Time to Buy and Sell Stock](arrays-strings/004-best-time-to-buy-and-sell-stock.md)
+- [Longest Common Prefix](arrays-strings/005-longest-common-prefix.md)
 
-- [Binary Search](basic-algorithms/01-binary-search.md)
-- [Move Zeroes](basic-algorithms/02-move-zeroes.md)
+### Basic Algorithms
 
-## Stacks
+- [Binary Search](basic-algorithms/006-binary-search.md)
+- [Move Zeroes](basic-algorithms/007-move-zeroes.md)
 
-- [Valid Parentheses](stacks/01-valid-parentheses.md)
+### Stacks
 
-## Linked Lists
+- [Valid Parentheses](stacks/008-valid-parentheses.md)
 
-- [Reverse a Linked List](linked-lists/01-reverse-linked-list.md)
+### Linked Lists
 
-## Progress Tracker
+- [Reverse Linked List (optional bonus)](linked-lists/bonus-009-reverse-linked-list.md)
 
-See [PROGRESS.md](PROGRESS.md).
+The eight required problems are in the first three sections. Reverse Linked List is the optional bonus listed in the activity. Each Python file contains local test cases. The Two Sum Accepted screenshot is included with its problem files; the other seven results and screenshots remain pending until actual LeetCode submissions.
