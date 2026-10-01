@@ -25,4 +25,4 @@ g++ -std=c++17 -DLOCAL_TEST linked-lists/bonus-009-reverse-linked-list.cpp -o /t
 
 ### LeetCode result evidence
 
-Submit this C++ solution on LeetCode. After the actual result is Accepted, save the genuine screenshot here as `bonus-009-reverse-linked-list-result.png`. Result: **Pending**.
+The real bonus submission is **Accepted**: [https://leetcode.com/problems/reverse-linked-list/submissions/2159556897/](https://leetcode.com/problems/reverse-linked-list/submissions/2159556897/). The genuine result screenshot was captured during this session but is not yet saved in the repository; add it here as `bonus-009-reverse-linked-list-result.png`.
